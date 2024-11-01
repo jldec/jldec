@@ -1,6 +1,6 @@
 # Jürgen Leschner
 
-Software engineer and experienced EM/PM leader. Looking to join an awesome team.
+Full-stack Web software engineer and experienced EM/PM leader. Looking to join an awesome team.
 
 I'm passionate about tools for editing and publishing and the Web. Currently exploring AI and edge-serverless.
 
